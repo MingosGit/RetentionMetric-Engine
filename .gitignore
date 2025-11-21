@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data (Nunca subir datos csv pesados al repo por seguridad y espacio)
+data/
+models/*.pkl
+
+# IDE
+.vscode/
+.idea/
